@@ -14,11 +14,26 @@ The main objective of this mini project is to **improve Object-Oriented Programm
 
 ---
 
-## 🧱 Project Structure
-onlineShoppingCart/
-│
-├── Product.java // Abstract base class for products
-├── Electronics.java // Product subclass with warranty-based pricing
-├── CartItem.java // Represents a product and its quantity
-├── Cart.java // Handles shopping cart operations
-└── Main.java // Menu-driven console interface
+
+## ⚙️ Features
+- View available products  
+- Add products to cart  
+- Handle duplicate products by updating quantity  
+- Update product quantity  
+- Remove products from cart  
+- View cart items with total price  
+- Dynamic price calculation using OOP concepts  
+
+---
+
+
+## 🖼 Output Screenshots
+
+### Main Menu
+![Main Code](maincode.png)
+
+### View Products
+![Output 1](output_1.png)
+
+### Cart Output
+![Output 2](screenshots/cart-output.png)
