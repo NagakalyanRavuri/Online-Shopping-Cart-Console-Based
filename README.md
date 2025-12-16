@@ -33,7 +33,12 @@ The main objective of this mini project is to **improve Object-Oriented Programm
 ![Main Code](maincode.png)
 
 ### View Products
-![Output 1](output_1.png)
+![Output 1](output1.png)
 
 ### Cart Output
-![Output 2](screenshots/cart-output.png)
+![Output 2](output2.png)
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
